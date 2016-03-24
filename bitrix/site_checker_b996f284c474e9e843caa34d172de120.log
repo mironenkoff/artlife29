@@ -1,0 +1,145 @@
+2012-Dec-28 13:55:16 Наличие необходимых модулей php (check_php_modules): Ok
+Успешно
+2012-Dec-28 13:55:17 Обязательные параметры PHP (check_php_settings): Ok
+Успешно
+2012-Dec-28 13:55:17 Значения переменных сервера (check_server_vars): Ok
+Успешно
+2012-Dec-28 13:55:17 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Успешно. Сайт работает в UTF кодировке
+2012-Dec-28 13:55:18 Установка параметра pcre.backtrack_limit (check_backtrack_limit): Ok
+Успешно
+2012-Dec-28 13:55:18 Настройки сайтов (check_sites): Ok
+Успешно
+2012-Dec-28 13:55:20 Работа с сокетами (check_socket): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:20 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:20 Загрузка файла (check_upload): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:21 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:21 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:21 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:22 Отправка почты (check_mail): Ok
+Успешно
+2012-Dec-28 13:55:22 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2012-Dec-28 13:55:22 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2012-Dec-28 13:55:23 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:23 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:23 Фактическое ограничение памяти (check_memory_limit): Ok
+14% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:23 Фактическое ограничение памяти (check_memory_limit): Ok
+28% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:24 Фактическое ограничение памяти (check_memory_limit): Ok
+42% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:24 Фактическое ограничение памяти (check_memory_limit): Ok
+57% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:25 Фактическое ограничение памяти (check_memory_limit): Ok
+71% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:25 Фактическое ограничение памяти (check_memory_limit): Ok
+85% done
+Connection to www.artlife29.ru:80
+== Request ==
+GET /bitrix/admin/site_checker.php?memory_test=Y&unique_id=84e30f9c9964c8939bba80486787545a&max=511 HTTP/1.1
+Host: www.artlife29.ru
+
+
+== Response ==
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Fri, 28 Dec 2012 09:55:25 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.3.14 ZendServer/5.0
+Vary: User-Agent,Accept-Encoding
+
+== Body ==
+
+Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 1048577 bytes) in /var/www/ph107887/data/www/artlife29.ru/bitrix/modules/main/admin/site_checker.php on line 89
+
+==========
+Успешно
+2012-Dec-28 13:55:26 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to www.artlife29.ru:80
+Не менее 384 М
+2012-Dec-28 13:55:26 Сохранение сессии (check_session): Ok
+50% done
+Успешно
+2012-Dec-28 13:55:26 Сохранение сессии (check_session): Ok
+Успешно
+2012-Dec-28 13:55:27 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:27 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:27 Работа с файлами кеша (check_cache): Ok
+Успешно
+2012-Dec-28 13:55:28 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2012-Dec-28 13:55:28 HTTP авторизация (check_http_auth): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:28 Создание и запуск файла (check_exec): Ok
+Connection to www.artlife29.ru:80
+Успешно
+2012-Dec-28 13:55:29 Модуль suhosin отключен (check_suhosin): Ok
+Успешно
+2012-Dec-28 13:55:29 Модуль Apache mod_security отключен (check_security): Ok
+Успешно
+2012-Dec-28 13:55:29 Константа BX_CRONTAB (не должна быть определена) (check_bx_crontab): Ok
+Успешно
+2012-Dec-28 13:55:30 Разделитель дробной части (check_divider): Ok
+Успешно
+2012-Dec-28 13:55:30 Значение параметра precision (не менее 10) (check_precision): Ok
+Успешно
+2012-Dec-28 13:55:30 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2012-Dec-28 13:55:30 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2012-Dec-28 13:55:31 Версия MySQL сервера (check_mysql_bug_version): Ok
+Успешно
+2012-Dec-28 13:55:32 Время на БД и веб сервере (check_mysql_time): Ok
+Успешно
+2012-Dec-28 13:55:32 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2012-Dec-28 13:55:32 Значение auto_increment в MySQL (check_mysql_increment): Ok
+Успешно
+2012-Dec-28 13:55:33 Кодировка соединения (check_mysql_connection_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2012-Dec-28 13:55:33 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2012-Dec-28 13:55:43 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+90% done
+Успешно
+2012-Dec-28 13:55:44 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно

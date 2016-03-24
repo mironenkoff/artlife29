@@ -1,0 +1,239 @@
+2012-11-25 04:37:17 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-11-25 04:37:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:37:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y
+2012-11-25 04:37:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:37:18 -  - TIME GetUpdatesList(request) 1.036 sec
+2012-11-25 04:37:18 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:06 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-11-25 04:40:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=bitrix.eshop%2Cbitrix.sitecorporate%2Csimai.maps2gis
+2012-11-25 04:40:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:07 -  - TIME GetUpdatesList(request) 0.653 sec
+2012-11-25 04:40:07 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:33 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:34 -  - TIME LoadModulesUpdates(request) 0.668 sec
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:34 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:34 - DOWNLOAD - Time - 0.52707004547119 sec
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:34 -  - TIME UnGzipArchive 0.005 sec
+2012-11-25 04:40:34 -  - TIME UpdateStepModules 0.031 sec
+2012-11-25 04:40:34 - UPD_SUCCESS - Updated: simai.maps2gis
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:34 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:34 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:35 -  - TIME LoadModulesUpdates(request) 0.701 sec
+2012-11-25 04:40:35 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:35 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:35 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:35 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:36 - DOWNLOAD - Time - 0.38963103294373 sec
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:36 -  - TIME UnGzipArchive 0.002 sec
+2012-11-25 04:40:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1353804036/simai.maps2gis/updater1.0.1.php'
+2012-11-25 04:40:36 -  - TIME UpdateStepModules 0.057 sec
+2012-11-25 04:40:36 - UPD_SUCCESS - Updated: simai.maps2gis (1.0.1)<br>незначительные изменения
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:36 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.0.1%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:36 -  - TIME LoadModulesUpdates(request) 0.407 sec
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:36 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:36 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:37 - DOWNLOAD - Time - 0.41814208030701 sec
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:37 -  - TIME UnGzipArchive 0.002 sec
+2012-11-25 04:40:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1353804037/simai.maps2gis/updater1.0.2.php'
+2012-11-25 04:40:37 -  - TIME UpdateStepModules 0.004 sec
+2012-11-25 04:40:37 - UPD_SUCCESS - Updated: simai.maps2gis (1.0.2)<br>незначительные изменения
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.0.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:37 -  - TIME LoadModulesUpdates(request) 0.407 sec
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:37 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:37 - DOWNLOAD - Time - 0.38410210609436 sec
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:37 -  - TIME UnGzipArchive 0.001 sec
+2012-11-25 04:40:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1353804037/simai.maps2gis/updater1.0.3.php'
+2012-11-25 04:40:37 -  - TIME UpdateStepModules 0.003 sec
+2012-11-25 04:40:37 - UPD_SUCCESS - Updated: simai.maps2gis (1.0.3)<br>Фикс автотеста XSS
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.0.3%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:38 -  - TIME LoadModulesUpdates(request) 0.439 sec
+2012-11-25 04:40:38 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:38 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:38 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:38 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:38 - DOWNLOAD - Time - 0.51968312263489 sec
+2012-11-25 04:40:38 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:38 -  - TIME UnGzipArchive 0.003 sec
+2012-11-25 04:40:38 - CSURUS1 - Run updater '/bitrix/updates/update_m1353804038/simai.maps2gis/updater1.1.1.php'
+2012-11-25 04:40:38 -  - TIME UpdateStepModules 0.009 sec
+2012-11-25 04:40:38 - UPD_SUCCESS - Updated: simai.maps2gis (1.1.1)<br>Поиск гео объектов в настройках компонента!<br /> Исправлен редкий баг, когда карта не грузилась.<br /> Фиксы кодировки в не-языковых файлах.<br /> Иконка в стиле 12й версии Битрикса.
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:39 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.1%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:39 -  - TIME LoadModulesUpdates(request) 0.409 sec
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:39 - LMU01 - LoadModulesUpdates-Step
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:39 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:40 - DOWNLOAD - Time - 0.46948099136353 sec
+2012-11-25 04:40:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-11-25 04:40:40 -  - TIME UnGzipArchive 0.001 sec
+2012-11-25 04:40:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1353804040/simai.maps2gis/updater1.1.2.php'
+2012-11-25 04:40:40 -  - TIME UpdateStepModules 0.004 sec
+2012-11-25 04:40:40 - UPD_SUCCESS - Updated: simai.maps2gis (1.1.2)<br>Если компонент отображает одну точку, её описание будет показано автоматически.
+2012-11-25 04:40:40 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-11-25 04:40:40 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:40 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis&lim=Y
+2012-11-25 04:40:40 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:40 -  - TIME LoadModulesUpdates(request) 0.38 sec
+2012-11-25 04:40:40 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:40 - STEP - Finish - NOUPDATES
+2012-11-25 04:40:40 - STEP - Finish - NOUPDATES
+2012-11-25 04:40:48 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-11-25 04:40:48 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:48 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y
+2012-11-25 04:40:48 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:49 -  - TIME GetUpdatesList(request) 0.433 sec
+2012-11-25 04:40:49 -  - exec CUpdateClientPartner::ParseServerData
+2012-11-25 04:40:49 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-11-25 04:40:49 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-11-25 04:40:49 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.0.103&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y
+2012-11-25 04:40:49 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-11-25 04:40:49 -  - TIME GetUpdatesList(request) 0.383 sec
+2012-11-25 04:40:49 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-17 13:19:14 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-17 13:19:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-17 13:19:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.206.128&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate
+2012-12-17 13:19:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-17 13:19:18 - ERRCONN - Error connecting 2 www.bitrixsoft.com: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known
+2012-12-17 13:19:18 -  - TIME GetUpdatesList(request) 3.307 sec
+2012-12-17 13:19:18 - GUL02 - Ошибка соединения с сервером обновлений: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known. Нет соединения с сервером обновлений. 
+2012-12-17 13:19:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-17 13:19:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-17 13:19:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.206.128&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate
+2012-12-17 13:19:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-17 13:19:36 - ERRCONN - Error connecting 2 www.bitrixsoft.com: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known
+2012-12-17 13:19:36 -  - TIME GetUpdatesList(request) 3.845 sec
+2012-12-17 13:19:36 - GUL02 - Ошибка соединения с сервером обновлений: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known. Нет соединения с сервером обновлений. 
+2012-12-17 13:20:13 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-17 13:20:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-17 13:20:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=192.168.206.128&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.3&dbv=5.1.61&instm=main%2C12.0.3%2CY%3Biblock%2C12.0.2%2CN%3Bsecurity%2C12.0.1%2CN%3Bsubscribe%2C12.0.0%2CN%3Bforum%2C12.0.0%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bsearch%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bcurrency%2C12.0.0%2CN%3Bblog%2C11.5.5%2CN%3Bseo%2C11.5.0%2CN%3Bform%2C12.0.0%2CN%3Bsocialservices%2C12.0.1%2CN%3Bsale%2C12.0.1%2CN%3Bperfmon%2C12.0.1%2CN%3Bcatalog%2C12.0.2%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrixcloud%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bvote%2C11.5.0%2CN%3Bfileman%2C12.0.1%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate&fullmoduleinfo=Y
+2012-12-17 13:20:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-17 13:20:16 - ERRCONN - Error connecting 2 www.bitrixsoft.com: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known
+2012-12-17 13:20:16 -  - TIME GetUpdatesList(request) 2.214 sec
+2012-12-17 13:20:16 - GUL02 - Ошибка соединения с сервером обновлений: [0] php_network_getaddresses: getaddrinfo failed: Name or service not known. Нет соединения с сервером обновлений. 
+2012-12-19 06:39:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-19 06:39:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:39:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow
+2012-12-19 06:39:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:39:33 -  - TIME GetUpdatesList(request) 0.496 sec
+2012-12-19 06:39:33 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:06 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=energosoft.newyearsnow&lim=Y
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:06 -  - TIME LoadModulesUpdates(request) 0.487 sec
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:06 - LMU01 - LoadModulesUpdates-Step
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:06 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:07 - DOWNLOAD - Time - 0.79226398468018 sec
+2012-12-19 06:40:07 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-12-19 06:40:07 -  - TIME UnGzipArchive 0.004 sec
+2012-12-19 06:40:07 -  - TIME UpdateStepModules 0.005 sec
+2012-12-19 06:40:07 - UPD_SUCCESS - Updated: energosoft.newyearsnow
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.0%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=energosoft.newyearsnow&lim=Y
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:08 -  - TIME LoadModulesUpdates(request) 0.218 sec
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:08 - LMU01 - LoadModulesUpdates-Step
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:08 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:09 - DOWNLOAD - Time - 0.73864984512329 sec
+2012-12-19 06:40:09 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-12-19 06:40:09 -  - TIME UnGzipArchive 0.004 sec
+2012-12-19 06:40:09 - CSURUS1 - Run updater '/bitrix/updates/update_m1355884809/energosoft.newyearsnow/updater1.0.1.php'
+2012-12-19 06:40:09 -  - TIME UpdateStepModules 0.009 sec
+2012-12-19 06:40:09 - UPD_SUCCESS - Updated: energosoft.newyearsnow (1.0.1)<br>[*] Не значительные исправления<br/>
+2012-12-19 06:40:12 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:12 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.1%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=energosoft.newyearsnow&lim=Y
+2012-12-19 06:40:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:12 -  - TIME LoadModulesUpdates(request) 0.483 sec
+2012-12-19 06:40:12 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:12 - LMU01 - LoadModulesUpdates-Step
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:13 - DOWNLOAD - Time - 0.38502907752991 sec
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-12-19 06:40:13 -  - TIME UnGzipArchive 0.006 sec
+2012-12-19 06:40:13 - CSURUS1 - Run updater '/bitrix/updates/update_m1355884813/energosoft.newyearsnow/updater1.0.2.php'
+2012-12-19 06:40:13 -  - TIME UpdateStepModules 0.014 sec
+2012-12-19 06:40:13 - UPD_SUCCESS - Updated: energosoft.newyearsnow (1.0.2)<br>[*] Обновлены картинки снежинок<br/>
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:13 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=energosoft.newyearsnow&lim=Y
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:13 -  - TIME LoadModulesUpdates(request) 0.225 sec
+2012-12-19 06:40:13 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:13 - STEP - Finish - NOUPDATES
+2012-12-19 06:40:13 - STEP - Finish - NOUPDATES
+2012-12-19 06:40:17 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-19 06:40:17 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:17 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow&fullmoduleinfo=Y
+2012-12-19 06:40:17 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:17 -  - TIME GetUpdatesList(request) 0.225 sec
+2012-12-19 06:40:17 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-19 06:40:18 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-19 06:40:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-19 06:40:18 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow&fullmoduleinfo=Y
+2012-12-19 06:40:18 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-19 06:40:18 -  - TIME GetUpdatesList(request) 0.217 sec
+2012-12-19 06:40:18 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-21 09:26:51 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-21 09:26:51 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-21 09:26:51 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.5%2CY%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow
+2012-12-21 09:26:51 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-21 09:26:52 -  - TIME GetUpdatesList(request) 0.477 sec
+2012-12-21 09:26:52 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-30 11:10:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-30 11:10:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-30 11:10:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=2&TYPENC=E&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.6%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow&fullmoduleinfo=Y
+2012-12-30 11:10:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-30 11:10:26 -  - TIME GetUpdatesList(request) 0.587 sec
+2012-12-30 11:10:26 -  - exec CUpdateClientPartner::ParseServerData
+2012-12-30 11:11:15 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-12-30 11:11:15 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-12-30 11:11:15 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.artlife29.ru&LICENSE_KEY=X&SUPD_STS=2&SUPD_URS=0&SUPD_URSA=2&TYPENC=E&CLIENT_PHPVER=5.3.14&dbv=5.5.24&instm=main%2C12.0.6%2CN%3Bsimai.maps2gis%2C1.1.2%2CN%3Bperfmon%2C12.0.2%2CN%3Bclouds%2C12.0.2%2CN%3Bfileman%2C12.0.3%2CN%3Bcurrency%2C12.0.0%2CN%3Bcatalog%2C12.0.7%2CN%3Bbitrix.eshop%2C12.0.0%2CN%3Bbitrix.sitecorporate%2C12.0.0%2CN%3Bbitrixcloud%2C12.0.4%2CN%3Bforum%2C12.0.1%2CN%3Biblock%2C12.0.2%2CN%3Bblog%2C12.0.0%2CN%3Bsubscribe%2C12.0.0%2CN%3Breport%2C12.0.0%2CN%3Bsocialservices%2C12.0.3%2CN%3Benergosoft.newyearsnow%2C1.0.2%2CN%3Bphotogallery%2C12.0.1%2CN%3Bcompression%2C11.0.0%2CN%3Bsearch%2C12.0.0%2CN%3Bseo%2C11.5.0%2CN%3Bsale%2C12.0.1%2CN%3Bvote%2C12.0.4%2CN%3Bsecurity%2C12.0.5%2CN%3Bform%2C12.0.0%2CN&reqm=simai.maps2gis%2Cbitrix.eshop%2Cbitrix.sitecorporate%2Cenergosoft.newyearsnow
+2012-12-30 11:11:15 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-12-30 11:11:16 -  - TIME GetUpdatesList(request) 0.937 sec
+2012-12-30 11:11:16 -  - exec CUpdateClientPartner::ParseServerData

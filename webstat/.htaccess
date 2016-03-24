@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/artlife29.ru/webstat"
+AuthUserFile /var/www/ph107887/data/etc/59515209.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
